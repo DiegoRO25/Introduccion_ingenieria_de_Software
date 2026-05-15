@@ -355,13 +355,7 @@ else:
 ✅ Evita líneas demasiado largas  
 
 ---
-
-# Estándar Oficial de Python
-
-Python tiene una guía oficial llamada:
-
-## PEP 8
-
-Define las reglas de estilo y buenas prácticas del lenguaje.
-
-https://peps.python.org/pep-0008/
+Diego Antonio Rodríguez Murillo
+Ángel Edsel Guevara Ruiz
+Emilio Juan Antonio Juárez Torrez
+Cesar Gael Betancourt De Santiago
