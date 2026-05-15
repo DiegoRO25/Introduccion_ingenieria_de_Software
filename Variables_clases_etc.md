@@ -353,9 +353,3 @@ else:
 ✅ Respeta la indentación  
 ✅ Usa espacios correctamente  
 ✅ Evita líneas demasiado largas  
-
----
-Diego Antonio Rodríguez Murillo
-Ángel Edsel Guevara Ruiz
-Emilio Juan Antonio Juárez Torrez
-Cesar Gael Betancourt De Santiago
