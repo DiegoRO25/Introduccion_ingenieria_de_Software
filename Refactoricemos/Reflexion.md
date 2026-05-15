@@ -1,0 +1,2 @@
+[Reflexion.md](https://github.com/user-attachments/files/27790281/Reflexion.md)
+Gracias a la investigación que realizamos para elaborar la guía de programación, aprendimos que conocer los fundamentos de la elaboración de un código nos ayuda en cuanto a la realización, la mejora y el mantenimiento de éste, ya que un código organizado y con variables bien definidas es más fácil de manipular y entender.
